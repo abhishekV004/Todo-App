@@ -20,7 +20,7 @@ JavaScript: Functionality for adding, removing, and marking tasks as completed, 
 This app is a perfect project for beginners looking to practice their front-end development skills and create a useful tool for task management.
 
 <h3>Page Preview:</h3>
-
+<img src="https://github.com/abhishekV004/Todo-App/blob/main/Preview.png" >
 
 
 
